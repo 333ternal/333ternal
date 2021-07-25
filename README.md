@@ -2,7 +2,8 @@
 - 👀 I’m interested in Coding, Games, and Movies
 - 🌱 I’m currently learning Java, Python
 - 📫 Contacts
-      paradisefalls007@gmail.com
+-     paradisefalls007@gmail.com
+-     instagram/andriandidntgrowup
 
 <!---
 333ternal/333ternal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
