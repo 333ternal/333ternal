@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @333ternal
+- 👋 Hi, I’m @NauseaSB
 - 👀 I’m interested in Coding, Games, and Movies
 - 🌱 I’m currently learning Java, Python
 - 📫 Contacts
