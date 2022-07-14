@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NauseaSB
+- 👋 Hi, I’m Andrian!
 - 👀 I’m interested in Coding, Games, and Movies
-- 🌱 I’m currently learning Java, Python
+- 🌱 I’m currently learning Web Programming with CodeIgniter framework, Java, Python 
 - 📫 Contacts
 -     paradisefalls007@gmail.com
 -     instagram/andriandidntgrowup
